@@ -42,6 +42,7 @@
 - [K.K. Slider Discography Guide](https://imgur.com/a/WdP7eD4) by \@pastelitaisle
 
 ### Tools
+- [VillagerDB Catalog](https://villagerdb.com/)
 - [Nook Plaza Item List](https://nookplaza.net/)
 - [Flower Planner](https://nubleh.github.io/flowerplanner/) by nubleh
 - [Flower Breeder](https://aeonsake.gitlab.io/acnh-flower-breeder/) by aeonsake
@@ -50,6 +51,7 @@
 - [Completionista Collection Tracker](https://completionista.com/)
 - [Town Planner](https://planimalcrossing.com/nh/start/)
 - [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/)
+- [MoriDB Catalog](http://moridb.com/) ![oldleaf]
 
 ## Communities
 - [General Subreddit](https://www.reddit.com/r/AnimalCrossing/)
