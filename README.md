@@ -61,7 +61,7 @@
 - [Nookazon](https://nookazon.com/)
     - [Nookazon Discord Guild](https://discord.gg/JTkWvJD)
 
-### Ideas
+## Ideas
 - [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by @moohorizons
 
 
