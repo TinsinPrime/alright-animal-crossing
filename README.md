@@ -9,7 +9,7 @@
 	- [Guides](#guides)
 	- [Tools](#tools)
 - [Communities](#communities)
-    - [Commerce](#commerce)
+- [Ideas](#ideas)
 
 ## Knowledge Bases
 ### Wikis
@@ -58,10 +58,11 @@
 - [The Bell Tree Forums](https://www.belltreeforums.com/)
 - [New Horizons Subreddit](https://www.reddit.com/r/ac_newhorizons/)
     - [New Horizons Subreddit Discord Guild](https://discord.gg/acnh/)
-
-### Commerce
 - [Nookazon](https://nookazon.com/)
     - [Nookazon Discord Guild](https://discord.gg/JTkWvJD)
+
+### Ideas
+- [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by @moohorizons
 
 
 ## License
