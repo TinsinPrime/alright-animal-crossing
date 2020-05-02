@@ -62,8 +62,9 @@
     - [Nookazon Discord Guild](https://discord.gg/JTkWvJD)
 
 ## Ideas
-- [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by @moohorizons
-- [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by @NEOSIM\_
+- [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by \@moohorizons
+- [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by \@NEOSIM\_
+- [miniature town](https://twitter.com/kmdcmm/status/1256260782917967872) by \@kmdcmm
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
