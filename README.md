@@ -53,7 +53,6 @@
 - [Town Planner](https://planimalcrossing.com/nh/start/)
 - [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/) by eugeneration
 - [Datamined String Browser](https://googleben.github.io/ACNHDialog/) by googleben
-- [MoriDB Catalog](http://moridb.com/) ![oldleaf]
 
 ## Communities
 - [General Subreddit](https://www.reddit.com/r/AnimalCrossing/)
