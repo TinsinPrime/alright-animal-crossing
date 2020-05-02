@@ -43,14 +43,16 @@
 
 ### Tools
 - [VillagerDB Catalog](https://villagerdb.com/)
-- [Nook Plaza Item List](https://nookplaza.net/)
+- [Nook Plaza Tracker](https://nookplaza.net/)
+- [Completionista Collection Tracker](https://completionista.com/)
 - [Flower Planner](https://nubleh.github.io/flowerplanner/) by nubleh
 - [Flower Breeder](https://aeonsake.gitlab.io/acnh-flower-breeder/) by aeonsake
 - [Critter Checklist and Availability Display](https://critterpedia.ssmvc.org/) by SuperSpazzy
 - [Critter Checklist](https://animalcrossing.scavettapps.com/)
-- [Completionista Collection Tracker](https://completionista.com/)
+- [Critter Checklist](https://icebr.art/) by icebr
 - [Town Planner](https://planimalcrossing.com/nh/start/)
-- [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/)
+- [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/) by eugeneration
+- [Datamined String Browser](https://googleben.github.io/ACNHDialog/) by googleben
 - [MoriDB Catalog](http://moridb.com/) ![oldleaf]
 
 ## Communities
