@@ -45,6 +45,7 @@
 - [VillagerDB Catalog](https://villagerdb.com/)
 - [Nook Plaza Tracker](https://nookplaza.net/)
 - [Completionista Collection Tracker](https://completionista.com/)
+- [Turnip Prophet](https://turnipprophet.io/)
 - [Flower Planner](https://nubleh.github.io/flowerplanner/) by nubleh
 - [Flower Breeder](https://aeonsake.gitlab.io/acnh-flower-breeder/) by aeonsake
 - [Critter Checklist and Availability Display](https://critterpedia.ssmvc.org/) by SuperSpazzy
