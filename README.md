@@ -64,6 +64,7 @@
     - [Nookazon Discord Guild](https://discord.gg/JTkWvJD)
 
 ## Ideas
+- [hidden speakers](https://www.reddit.com/r/ac_newhorizons/comments/gfcb3l/tip_if_you_want_to_play_music_over_a_large_area/) by u/KabukiCapybara
 - [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by \@moohorizons
 - [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by \@NEOSIM\_
 - [miniature town](https://twitter.com/kmdcmm/status/1256260782917967872) by \@kmdcmm
