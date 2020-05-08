@@ -10,6 +10,7 @@
 	- [Tools](#tools)
 - [Communities](#communities)
 - [Ideas](#ideas)
+- [Patterns](#patterns)
 
 ## Knowledge Bases
 ### Wikis
@@ -69,6 +70,9 @@
 - [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by \@NEOSIM\_
 - [miniature town](https://twitter.com/kmdcmm/status/1256260782917967872) by \@kmdcmm
 - [infinity pool](https://www.reddit.com/r/ac_newhorizons/comments/gf9jnz/my_take_on_the_infinity_pool/) by u/carm-ess
+
+## Patterns
+- [botanical illustrations](https://www.reddit.com/r/ACQR/comments/g9zaa8/botanical_illustrations_for_our_orchard_needs/) by u/vitaminbug
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
