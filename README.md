@@ -51,7 +51,7 @@
 - [Flower Breeder](https://aeonsake.gitlab.io/acnh-flower-breeder/) by aeonsake
 - [Critter Checklist](https://googleben.github.io/ACNHInfo/) by googleben
 - [Critter Checklist](https://critterpedia.ssmvc.org/) by SuperSpazzy
-- [Critter Checklist](https://animalcrossing.scavettapps.com/)
+- [Critter Checklist](https://animalcrossing.scavettapps.com/) by Scavettapps
 - [Critter Checklist](https://icebr.art/) by icebr
 - [Town Planner](https://planimalcrossing.com/nh/start/)
 - [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/) by eugeneration
