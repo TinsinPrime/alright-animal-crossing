@@ -43,19 +43,22 @@
 - [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABcjStBiU*BS5GEP4AwwZsI0id8kcahg) written by ooraloo\#0360
 
 ### Tools
-- [VillagerDB Catalog](https://villagerdb.com/)
+- [VillagerDB Catalog](https://villagerdb.com/) by jefflomacy
 - [Nook Plaza Tracker](https://nookplaza.net/)
-- [Completionista Collection Tracker](https://completionista.com/)
-- [Turnip Prophet](https://turnipprophet.io/)
+- [Completionista Collection Tracker](https://completionista.com/) by Natasha and Dan
+- [Turnip Prophet](https://turnipprophet.io/) by Mike Bryant
 - [Flower Planner](https://nubleh.github.io/flowerplanner/) by nubleh
 - [Flower Breeder](https://aeonsake.gitlab.io/acnh-flower-breeder/) by aeonsake
+- [Datamined String Browser](https://googleben.github.io/ACNHDialog/) by googleben
 - [Critter Checklist](https://googleben.github.io/ACNHInfo/) by googleben
 - [Critter Checklist](https://critterpedia.ssmvc.org/) by SuperSpazzy
 - [Critter Checklist](https://animalcrossing.scavettapps.com/) by Scavettapps
 - [Critter Checklist](https://icebr.art/) by icebr
-- [Town Planner](https://planimalcrossing.com/nh/start/)
+- [Town Planner](https://planimalcrossing.com/nh/start/) by \/u\/adamantarticuno
 - [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/) by eugeneration
-- [Datamined String Browser](https://googleben.github.io/ACNHDialog/) by googleben
+- [Island Designer](https://bobacupcake.itch.io/island-planner) by \@bobacupcake
+- [Labelle Outfit Optimizer](https://nookplaza.net/tools) from NookPlaza
+- [Villager Gift Optimizer](https://nookplaza.net/tools) from NookPlaza
 
 ## Communities
 - [General Subreddit](https://www.reddit.com/r/AnimalCrossing/)
