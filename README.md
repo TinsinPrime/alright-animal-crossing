@@ -29,8 +29,7 @@
 
 
 ### Guides
-- [BackwardsN's Compact Flower Breeding Method](https://i.imgur.com/jegTRGT.png)
-- [Datamined Flower Hybrid Guide](https://i.imgur.com/N33q17S.png)
+- [Comprehensive Gardening Document](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/)
 - [Orchard Space-Optimization Guide](https://i.imgur.com/4WJnbUP.png) by J\_MASTER
 - [Fruit Reselling Exploit Guide](https://i.imgur.com/pMS9tNW.png) by J\_MASTER
 - [Turnip Trend Guide](https://twitter.com/KnightCarmine/status/1244392945056276482?s=19) by \@KnightCarmine
@@ -38,9 +37,9 @@
     - [Mystery Tour Islands Guide Webpage](http://wuffs.org/acnh/mysterytour.html) by \@\_Ninji  
 - [Critter Value Lookup Table](https://i.imgur.com/ORduiqF.jpg)
 - [Bridge Construction Guide](https://i.imgur.com/hiAPiJS.png)
-- [Item Durability Guide](https://imgur.com/a/96CNQ56)
+- [Item Durability Guide Imgur Mirror](https://imgur.com/a/96CNQ56) by \/u\/WhiteYoshi_YL
 - [K.K. Slider Discography Guide](https://imgur.com/a/WdP7eD4) by \@pastelitaisle
-- [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABcjStBiU*BS5GEP4AwwZsI0id8kcahg) written by ooraloo\#0360
+- [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/) written by ooraloo\#0360
 
 ### Tools
 - [VillagerDB Catalog](https://villagerdb.com/) by jefflomacy
