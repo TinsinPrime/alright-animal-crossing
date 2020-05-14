@@ -49,7 +49,8 @@
 - [Turnip Prophet](https://turnipprophet.io/)
 - [Flower Planner](https://nubleh.github.io/flowerplanner/) by nubleh
 - [Flower Breeder](https://aeonsake.gitlab.io/acnh-flower-breeder/) by aeonsake
-- [Critter Checklist and Availability Display](https://critterpedia.ssmvc.org/) by SuperSpazzy
+- [Critter Checklist](https://googleben.github.io/ACNHInfo/) by googleben
+- [Critter Checklist](https://critterpedia.ssmvc.org/) by SuperSpazzy
 - [Critter Checklist](https://animalcrossing.scavettapps.com/)
 - [Critter Checklist](https://icebr.art/) by icebr
 - [Town Planner](https://planimalcrossing.com/nh/start/)
