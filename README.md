@@ -34,13 +34,13 @@
 - [Orchard Space-Optimization Guide](https://i.imgur.com/4WJnbUP.png) by J\_MASTER
 - [Fruit Reselling Exploit Guide](https://i.imgur.com/pMS9tNW.png) by J\_MASTER
 - [Turnip Trend Guide](https://twitter.com/KnightCarmine/status/1244392945056276482?s=19) by \@KnightCarmine
-    - [Imgur Mirror](https://imgur.com/a/3PAgcBV)
 - [Mystery Tour Islands Infographic](https://i.imgur.com/1SeAQJs.png) by \@\_Ninji
     - [Mystery Tour Islands Guide Webpage](http://wuffs.org/acnh/mysterytour.html) by \@\_Ninji  
 - [Critter Value Lookup Table](https://i.imgur.com/ORduiqF.jpg)
 - [Bridge Construction Guide](https://i.imgur.com/hiAPiJS.png)
 - [Item Durability Guide](https://imgur.com/a/96CNQ56)
 - [K.K. Slider Discography Guide](https://imgur.com/a/WdP7eD4) by \@pastelitaisle
+- [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABcjStBiU*BS5GEP4AwwZsI0id8kcahg) written by ooraloo\#0360
 
 ### Tools
 - [VillagerDB Catalog](https://villagerdb.com/)
