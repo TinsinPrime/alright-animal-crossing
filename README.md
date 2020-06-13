@@ -58,6 +58,7 @@
 - [Island Designer](https://bobacupcake.itch.io/island-planner) by \@bobacupcake
 - [Labelle Outfit Optimizer](https://nookplaza.net/tools) from NookPlaza
 - [Villager Gift Optimizer](https://nookplaza.net/tools) from NookPlaza
+- [Weather Almanac Generator](https://wuffs.org/acnh/weather/)
 
 ## Communities
 - [General Subreddit](https://www.reddit.com/r/AnimalCrossing/)
