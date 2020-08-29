@@ -30,16 +30,16 @@
 
 ### Guides
 - [Comprehensive Gardening Document](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/)
-- [Orchard Space-Optimization Guide](https://i.imgur.com/4WJnbUP.png) by J\_MASTER
-- [Fruit Reselling Exploit Guide](https://i.imgur.com/pMS9tNW.png) by J\_MASTER
-- [Turnip Trend Guide](https://twitter.com/KnightCarmine/status/1244392945056276482?s=19) by \@KnightCarmine
-- [Mystery Tour Islands Infographic](https://i.imgur.com/1SeAQJs.png) by \@\_Ninji
-    - [Mystery Tour Islands Guide Webpage](http://wuffs.org/acnh/mysterytour.html) by \@\_Ninji  
+- [Orchard Space-Optimization Guide](https://i.imgur.com/4WJnbUP.png) by J_MASTER
+- [Fruit Reselling Exploit Guide](https://i.imgur.com/pMS9tNW.png) by J_MASTER
+- [Turnip Trend Guide](https://twitter.com/KnightCarmine/status/1244392945056276482?s=19) by @KnightCarmine
+- [Mystery Tour Islands Infographic](https://i.imgur.com/1SeAQJs.png) by @_Ninji
+    - [Mystery Tour Islands Guide Webpage](http://wuffs.org/acnh/mysterytour.html) by @_Ninji  
 - [Critter Value Lookup Table](https://i.imgur.com/ORduiqF.jpg)
 - [Bridge Construction Guide](https://i.imgur.com/hiAPiJS.png)
-- [Item Durability Guide Imgur Mirror](https://imgur.com/a/96CNQ56) by \/u\/WhiteYoshi_YL
-- [K.K. Slider Discography Guide](https://imgur.com/a/WdP7eD4) by \@pastelitaisle
-- [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/) written by ooraloo\#0360
+- [Item Durability Guide Imgur Mirror](https://imgur.com/a/96CNQ56) by /u/WhiteYoshi_YL
+- [K.K. Slider Discography Guide](https://imgur.com/a/WdP7eD4) by @pastelitaisle
+- [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/) written by ooraloo#0360
 - [Ultimate Friendship Handbook](https://yuexr.github.io/acnh/friendship.html) by yuexr
 
 ### Tools
@@ -54,9 +54,9 @@
 - [Critter Checklist](https://critterpedia.ssmvc.org/) by SuperSpazzy
 - [Critter Checklist](https://animalcrossing.scavettapps.com/) by Scavettapps
 - [Critter Checklist](https://icebr.art/) by icebr
-- [Town Planner](https://planimalcrossing.com/nh/start/) by \/u\/adamantarticuno
+- [Town Planner](https://planimalcrossing.com/nh/start/) by /u/adamantarticuno
 - [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/) by eugeneration
-- [Island Designer](https://bobacupcake.itch.io/island-planner) by \@bobacupcake
+- [Island Designer](https://bobacupcake.itch.io/island-planner) by @bobacupcake
 - [Labelle Outfit Optimizer](https://nookplaza.net/tools?tab=changing) from NookPlaza
 - [Villager Gift Optimizer](https://nookplaza.net/tools?tab=gifts) from NookPlaza
 - [Island Rating Generator](https://nookplaza.net/tools?tab=island_rating) from NookPlaza
@@ -74,9 +74,9 @@
 
 ## Ideas
 - [hiding speakers](https://www.reddit.com/r/ac_newhorizons/comments/gfcb3l/tip_if_you_want_to_play_music_over_a_large_area/) by u/KabukiCapybara
-- [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by \@moohorizons
-- [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by \@NEOSIM\_
-- [miniature town](https://twitter.com/kmdcmm/status/1256260782917967872) by \@kmdcmm
+- [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by @moohorizons
+- [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by @NEOSIM_
+- [miniature town](https://twitter.com/kmdcmm/status/1256260782917967872) by @kmdcmm
 - [infinity pool](https://www.reddit.com/r/ac_newhorizons/comments/gf9jnz/my_take_on_the_infinity_pool/) by u/carm-ess
 - [ice cream stand](https://www.reddit.com/r/ac_newhorizons/comments/gfgsc0/my_attempt_at_an_ice_cream_stand_with_mint/) by u/-aniram-
 
