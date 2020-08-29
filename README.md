@@ -1,6 +1,6 @@
 # Alright Animal Crossing ![Alright](https://img.shields.io/static/v1?label=meh&message=alright&color=grey&style=flat&labelColor=blue)
 
-> A ~~curated~~ list of Animal Crossing assets!
+> A list of Animal Crossing assets!
 
 ## Contents
 - [Knowledge Bases](#knowledge-bases)
@@ -40,6 +40,7 @@
 - [Item Durability Guide Imgur Mirror](https://imgur.com/a/96CNQ56) by \/u\/WhiteYoshi_YL
 - [K.K. Slider Discography Guide](https://imgur.com/a/WdP7eD4) by \@pastelitaisle
 - [Datamined Friendship Mechanics](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/) written by ooraloo\#0360
+- [Ultimate Friendship Handbook](https://yuexr.github.io/acnh/friendship.html) by yuexr
 
 ### Tools
 - [VillagerDB Catalog](https://villagerdb.com/) by jefflomacy
@@ -56,9 +57,12 @@
 - [Town Planner](https://planimalcrossing.com/nh/start/) by \/u\/adamantarticuno
 - [Island Designer](https://eugeneration.github.io/HappyIslandDesigner/) by eugeneration
 - [Island Designer](https://bobacupcake.itch.io/island-planner) by \@bobacupcake
-- [Labelle Outfit Optimizer](https://nookplaza.net/tools) from NookPlaza
-- [Villager Gift Optimizer](https://nookplaza.net/tools) from NookPlaza
-- [Weather Almanac Generator](https://wuffs.org/acnh/weather/)
+- [Labelle Outfit Optimizer](https://nookplaza.net/tools?tab=changing) from NookPlaza
+- [Villager Gift Optimizer](https://nookplaza.net/tools?tab=gifts) from NookPlaza
+- [Island Rating Generator](https://nookplaza.net/tools?tab=island_rating) from NookPlaza
+- [Weather Forecast](https://nookplaza.net/tools?tab=weather) from NookPlaza
+- [Move-Out Calculator](https://nookplaza.net/tools?tab=move_out) from NookPlaza
+- [Fake Art Comparison](https://nookplaza.net/tools?tab=fake_art) from NookPlaza
 
 ## Communities
 - [General Subreddit](https://www.reddit.com/r/AnimalCrossing/)
@@ -69,7 +73,7 @@
     - [Nookazon Discord Guild](https://discord.gg/JTkWvJD)
 
 ## Ideas
-- [hidden speakers](https://www.reddit.com/r/ac_newhorizons/comments/gfcb3l/tip_if_you_want_to_play_music_over_a_large_area/) by u/KabukiCapybara
+- [hiding speakers](https://www.reddit.com/r/ac_newhorizons/comments/gfcb3l/tip_if_you_want_to_play_music_over_a_large_area/) by u/KabukiCapybara
 - [shanty alley to Redd](https://twitter.com/moohorizons/status/1253353360201302019) by \@moohorizons
 - [industrial zone](https://twitter.com/NEOSIM_/status/1255868047874650114) by \@NEOSIM\_
 - [miniature town](https://twitter.com/kmdcmm/status/1256260782917967872) by \@kmdcmm
@@ -85,4 +89,3 @@
 <!--Definitions-->
 
 [leaf]: Leaf.png 'New Leaf Compatible'
-[oldleaf]: OldLeaf.png 'New Leaf Only'
