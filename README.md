@@ -82,6 +82,7 @@
 
 ## Patterns
 - [botanical illustrations](https://www.reddit.com/r/ACQR/comments/g9zaa8/botanical_illustrations_for_our_orchard_needs/) by u/vitaminbug
+- [cloud paths](https://twitter.com/pafegel/status/1303027160244842497?s=20) by @pafegel
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
